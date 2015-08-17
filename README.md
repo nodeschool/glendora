@@ -1,6 +1,6 @@
-# glendora
-
 [![Join the chat at https://gitter.im/nodeschool/glendora](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/glendora?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# glendora
 NodeSchool chapter for Glendora, CA, USA
 
 ## where we meet
