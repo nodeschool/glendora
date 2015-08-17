@@ -2,8 +2,8 @@
 NodeSchool chapter for Glendora, CA, USA
 
 ## where we meet
-66kicks.co
-440 E Route 66
+66kicks.co  
+440 E Route 66  
 Glendora, CA 91740
 
 ## chat
