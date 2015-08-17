@@ -11,6 +11,7 @@ We plan on a monthly event but we have not decided on initial meetup date.
 
 # organizers
 - @uptownhr
+
 Please create a ticket, if you are interested in becomming an organizer
 
 # mentors
