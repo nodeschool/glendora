@@ -1,17 +1,22 @@
-# glendora
-NodeSchool chapter for Glendora, CA, USA
+nodeschool berlin :school::bear:
+======
 
-# where we meet
-66kicks.co
-440 E Route 66
-Glendora, CA 91740
+[![Gitter chat](https://badges.gitter.im/nodeschool/berlin.png)](https://gitter.im/nodeschool/berlin)
 
-# schedules
-We plan on a monthly event but we have not decided on initial meetup date. 
+Subscribe to the [reminder newsletter](http://nodeschool.us9.list-manage2.com/subscribe?u=a44cde6d98a586be27ab4885c&id=505911339e) to be notified about future events.
 
-# organizers
-- @uptownhr
-Please create a ticket, if you are interested in becomming an organizer
+Have a question? [Open an issue](https://github.com/nodeschool/berlin/issues).
 
-# mentors
-Please create a ticket, if you are interested in becomming a mentor
+Note: Everyone involved with NodeSchool Berlin has to follow our [Code of Conduct](https://github.com/nodeschool/berlin/blob/master/codeofconduct.md). You can also find contact info there in case you want to report a violation or need help in general.
+
+* [List of past events](https://github.com/nodeschool/berlin/issues?q=is%3Aissue+label%3Apast-event+is%3Aclosed)
+* The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/berlin/tree/gh-pages).
+* [NodeSchool open budget](https://travis-ci.org/nodeschool/berlin/branches)
+
+## Other Learning Groups/Events in Berlin
+
+- [OpenTechSchool](http://www.opentechschool.org/berlin/)JavaScript/Python/Ruby workshops and regular learners meetups.
+- [CoderDojo] (https://zen.coderdojo.com/dojo/522) Learning events for kids
+- [RailsGirls](http://railsgirlsberlin.de/) Mostly Ruby workshops for Women
+- [Berlin.js](http://berlinjs.org/) JavaScript talks
+- [Node.js Berlin](http://www.meetup.com/Node-js-Meetup-Berlin/)
