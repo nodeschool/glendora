@@ -1,18 +1,22 @@
 # glendora
 NodeSchool chapter for Glendora, CA, USA
 
-# where we meet
+## where we meet
 66kicks.co
 440 E Route 66
 Glendora, CA 91740
 
-# schedules
+## chat
+https://gitter.im/nodeschool/glendora
+
+
+## schedules
 We plan on a monthly event but we have not decided on initial meetup date. 
 
-# organizers
+## organizers
 - @uptownhr
 
 Please create a ticket, if you are interested in becomming an organizer
 
-# mentors
+## mentors
 Please create a ticket, if you are interested in becomming a mentor
